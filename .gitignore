@@ -6,5 +6,4 @@ cheat_engine
 # VS Code / IDE settings
 .vscode/
 .idea/
-target
 *.o
