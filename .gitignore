@@ -1,0 +1,9 @@
+# Executables & Compiled files
+*.o
+*.out
+cheat_engine
+
+# VS Code / IDE settings
+.vscode/
+.idea/target
+*.o
